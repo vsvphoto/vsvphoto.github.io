@@ -13,7 +13,7 @@ grunt.initConfig({
 	sass: {
 		dist: {
 			files: {
-				'https://vsvphoto/vsvphoto.github.io/css/twentytwenty-no-compass.css': 'https://vsvphoto/vsvphoto.github.io/scss/twentytwenty-no-compass.scss',
+				'https://github.com/vsvphoto/vsvphoto.github.io/blob/master/css/twentytwenty-no-compass.css': 'https://github.com/vsvphoto/vsvphoto.github.io/blob/master/scss/twentytwenty-no-compass.scss',
 			},
 		}
 	},
